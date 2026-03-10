@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnYxazZ2amJwbmw3YXpxeGJ4bnYwaXRyaWtpaGtmeDlsZnBjeXNscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Futuristic Banner" />
 
-  # 🆮 Hey! Soy Daniel [Game UI/UX Designer & Dev]
+  # 🎮 Hey! Soy Daniel [Game UI/UX Designer & Dev]
   
   <p>
     <em>Transformando la lógica compleja en experiencias visuales inmersivas y fluidas.</em>
