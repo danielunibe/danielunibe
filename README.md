@@ -106,6 +106,7 @@ type AIAction = {
 
 - **Active Public Repository:** [danielunibe/PulsarIA](https://github.com/danielunibe/PulsarIA) — Local-first multimodal desktop tool (Public Evaluation Release).
 - **Interactive Experience:** [danielunibe/Manta](https://github.com/danielunibe/Manta) — Editorial commerce web & mobile prototype.
+- **Game Boy Portfolio:** [danielunibe/gameboy-portfolio](https://github.com/danielunibe/gameboy-portfolio) · [Live](https://danielunibe.github.io/gameboy-portfolio/) — Interactive Game Boy Color portfolio with SD cartridge navigation.
 - **Visual Exploration:** [danielunibe/DanielUnibe-Antivillano](https://github.com/danielunibe/DanielUnibe-Antivillano) — Interactive gaming-inspired portfolio interface.
 - **Deep Desktop Architecture:** Hyperpane & Pixvoxia *(maintained under active engineering validation for spatial management and creative tooling)*.
 
