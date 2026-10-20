@@ -14,6 +14,9 @@ Guadalajara, Jalisco, México
 <a href="https://danielunibe.github.io/gameboy-portfolio/"><img src="https://raw.githubusercontent.com/danielunibe/gameboy-portfolio/main/assets/profile/github-profile-cover.png" alt="Vista previa interactiva del portafolio Game Boy Color; abrir el sitio" width="100%"></a>
 </div>
 
+**Source code:** [HTML](https://github.com/danielunibe/gameboy-portfolio/blob/main/index.html) · [CSS](https://github.com/danielunibe/gameboy-portfolio/blob/main/style.css) · [JavaScript](https://github.com/danielunibe/gameboy-portfolio/blob/main/script.js) · [Repository](https://github.com/danielunibe/gameboy-portfolio)
+
+
 ---
 
 > *"I design complex digital products and interaction systems, using technical prototypes to validate behavior, feasibility, and Human-AI interaction."*
