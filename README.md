@@ -9,6 +9,9 @@ Guadalajara, Jalisco, México
 
 [LinkedIn](https://www.linkedin.com/in/danielunibe/) · [Dribbble](https://dribbble.com/daniel_unibe) · [CodePen](https://codepen.io/Daniel-Unibe) · [Pulsaria on GitHub](https://github.com/danielunibe/PulsarIA)
 
+
+
+<a href="https://danielunibe.github.io/gameboy-portfolio/"><img src="https://raw.githubusercontent.com/danielunibe/gameboy-portfolio/main/assets/profile/github-profile-cover.png" alt="Vista previa interactiva del portafolio Game Boy Color; abrir el sitio" width="100%"></a>
 </div>
 
 ---
